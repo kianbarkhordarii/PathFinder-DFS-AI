@@ -76,6 +76,4 @@ Upon launch, the engine will prompt for:
 
 ## 👨‍💻 Developed By
 
-**Kian Barkhordari**
-
-**حالا برویم سراغ کد؟ می‌خواهی آن را هم کاملاً انگلیسی و حرفه‌ای (Clean Code) کنم؟**
+**Kian Barkhordari***
