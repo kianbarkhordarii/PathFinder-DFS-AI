@@ -1,0 +1,4 @@
+# Data Visualization & Grid Rendering
+matplotlib
+# Numerical Operations
+numpy
